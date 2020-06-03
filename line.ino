@@ -1,5 +1,4 @@
-
-void line()
+void Line()
 {
    auslesen();
   

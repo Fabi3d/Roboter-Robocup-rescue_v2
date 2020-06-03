@@ -1,4 +1,3 @@
-
 #include <Pixy2.h> 
 
  void green()
